@@ -23,6 +23,9 @@ http://lguest.ozlabs.org/
 
 https://openvz.org/
 
+http://www.linuxvirtualserver.org/
+
+http://www.linuxvirtualserver.org/software/ipvs.html
 
 
 

@@ -27,6 +27,10 @@ http://www.linuxvirtualserver.org/
 
 http://www.linuxvirtualserver.org/software/ipvs.html
 
+https://virt-manager.org/
+
+https://www.vagrantup.com/
+
 
 
 
